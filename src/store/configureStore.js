@@ -11,3 +11,4 @@ import filtersReducer from '../reducers/filters';
     );
     return store;
     }
+
