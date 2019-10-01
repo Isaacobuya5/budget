@@ -9,7 +9,7 @@ import { editExpense, removeExpense} from '../actions/expenses';
 //     </div>
 // );
 
-const EditExpensePage = (props) => {
+export const EditExpensePage = (props) => {
     console.log(props);
     return (
     <div>
